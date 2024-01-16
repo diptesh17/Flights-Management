@@ -19,5 +19,6 @@
 }
 
 
-
 ```
+
+- Once you've added the above json , go to src folder from terminal and execute `npx sequelize db:create`
