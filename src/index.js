@@ -16,6 +16,9 @@ const serverSetup = async () => {
 
     // const repo = new CityRepository();
     // repo.createCity({ name: "Pune" });
+
+    // Till here the routes setup is done 
+    
   });
 };
 
