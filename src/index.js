@@ -19,9 +19,9 @@ const serverSetup = async () => {
     // repo.createCity({ name: "Pune" });
 
     // Till here the routes setup is done
-    if (process.env.SYNC_DB) {
-      db.sequelize.sync({ alter: true });
-    }
+    // if (process.env.SYNC_DB) {
+    //   db.sequelize.sync({ alter: true });
+    // }
   });
 };
 
